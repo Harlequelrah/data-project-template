@@ -12,11 +12,11 @@
 
 2.  Analyse Exploratoire des données
 
-    2.2. Analyse Univariée
+    2.1. Analyse Univariée
 
-    2.3. Analyse Bivariée
+    2.2. Analyse Bivariée
 
-    2.4. Matrice des corrélations
+    2.3. Matrice des corrélations
 
 3.  Analyse multivariée (PCA et Clustering)
 
@@ -47,7 +47,3 @@
         3.5.5 Graphique de projection des points
 
 4.  Conclusion
-
-
-
-
